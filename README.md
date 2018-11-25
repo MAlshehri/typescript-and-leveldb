@@ -5,7 +5,7 @@
 $ mkdir typescript-and-leveldb
 $ cd typescript-and-leveldb
 $ git clone https://github.com/MAlshehri/typescript-and-leveldb.git
-$ nnpm install
+$ npm install
 $ npm run start
 ```
 
